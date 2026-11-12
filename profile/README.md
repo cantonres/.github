@@ -12,6 +12,7 @@
 | --- | --- |
 | 社区主页 | <https://cantonres.github.io/> |
 | 加入我们 | <https://join.cantonres.com> |
+| 新人教程（速查版） | [Google 文档](https://docs.google.com/document/d/1shHLQZ6esyKoFKrdBJDQ3X4yeU2usq1fAwnmTaWLRc8/edit?usp=sharing) |
 | 新人教程（Prime） | [Google 文档](https://docs.google.com/document/d/1axrOoxfVuTbs5SyHPQePCrpcUWbCkxXeP6BgeF75EWQ/edit?usp=sharing) |
 | 新人教程（[REDACTED]） | [Google 文档](https://docs.google.com/document/d/1f2UFjHu2_mYuzu7RZVXVNl3ei04Vk35RzWTLINk0UH4/edit?usp=sharing) |
 
