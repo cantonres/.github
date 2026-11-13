@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/cantonres/.github/raw/refs/heads/main/profile/flag.png" alt="Canton Resistance 社区旗帜" width="40%">
+</p>
+
 # Canton Resistance · 广州抵抗军
 
 > 我们的自由岌岌可危
@@ -34,7 +38,7 @@ Canton Resistance 是广州及周边地区 Ingress 抵抗军玩家的交流阵�
 
 ## 参与贡献
 
-- **新玩家**：从「加入我们」入口开始，配合两份新人教程上手。
+- **新玩家**：从「加入我们」入口开始，配合三份新人教程上手。
 - **开发者**：欢迎通过对应仓库的 Issue 与 Pull Request 反馈问题、提交改进；动手前请先阅读该仓库的 README 与许可说明。
 - **内容与资料**：如发现教程或资料失效，可在相应仓库开 Issue 说明。
 
