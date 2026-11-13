@@ -29,6 +29,8 @@ Canton Resistance 是广州及周边地区 Ingress 抵抗军玩家的交流阵�
 | [cantonres.github.io](https://github.com/cantonres/cantonres.github.io) | 社区主页源码，站点为 <https://cantonres.github.io/>（CSS，Unlicense） |
 | [cantonres-jekyll](https://github.com/cantonres/cantonres-jekyll) | 早期基于 Jekyll 的站点源码存档（CSS，最后更新于 2015 年） |
 | [ingress-banner-atlas](https://github.com/cantonres/ingress-banner-atlas) | Ingress 拼图（banner）任务档案站：将 Bannergress 上的拼图整理为可检索、可筛选的地图与统计视图（React 19 / Vite 6 / MapLibre GL，MIT）。仅提供本地运行与预览，不含线上部署配置或官方实例 |
+| [ingress-gdpr-personal-data-visualizer](https://github.com/cantonres/ingress-gdpr-personal-data-visualizer) | 交互式可视化你自己的 Ingress GDPR 数据导出：地图、热力图、仪表盘；本地优先运行、数据不上传（JavaScript，MIT） |
+| [.github](https://github.com/cantonres/.github) | 组织资料仓库：存放组织公开主页所展示的本 README（`profile/README.md`） |
 
 ## 参与贡献
 
